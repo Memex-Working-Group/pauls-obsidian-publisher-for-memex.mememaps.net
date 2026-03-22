@@ -13,7 +13,8 @@ This project build a static website using mkdocs from your obsidian vault. Pleas
 ## Install and Conigure Markdown
 
 ``` bash
-git clone https://github.com/dentropy/obsidian-publisher.git
+git submodule update --init --recursive
+git clone git@github.com:Memex-Working-Group/pauls-obsidian-publisher-for-memex.mememaps.net.git
 cd obsidian-publisher
 
 # Configure your Obsidian Root Folder
