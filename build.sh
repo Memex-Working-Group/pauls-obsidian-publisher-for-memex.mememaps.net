@@ -15,7 +15,7 @@ node raw_to_sqlite.js \
     -dbf $build_path/pkm.sqlite \
     -i $pkm_in_path \
     -o $build_path \
-    # -oi 5
+    -oi 1
 
 # Build the markdown
 cd $build_path
