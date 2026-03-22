@@ -1,4 +1,4 @@
-# dentropys-obsidian-publisher
+# pauls-obsidian-publisher
 
 This project build a static website using mkdocs from your obsidian vault. Please note that this project adds YAML frontmatter to the notes in your existing vault for manging permissions and providing each note a UUID. If you don't like looking at frontmatter yaml in Obsidian you can install [hua03/obsidian-toggle-meta-yaml-plugin](https://github.com/hua03/obsidian-toggle-meta-yaml-plugin) from the community plugins page, though this functionality is now built into obsidian by default now.
 
