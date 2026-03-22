@@ -1,0 +1,3 @@
+[submodule "collective-memex"]
+	path = collective-memex
+	url = git@github.com:Memex-Working-Group/collective-memex.git
